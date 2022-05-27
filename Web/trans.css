@@ -1,0 +1,11 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: crimson;
+    font-size: 20px;
+    transition: width 1s;
+  transition-delay: 2s;
+}
+div:hover{
+    width: 500px;
+}
